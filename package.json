@@ -1,0 +1,31 @@
+{
+  "name": "hyperscripts",
+  "version": "1.0.0",
+  "description": "simple functions written in livescript",
+  "main": "hyper-scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "lsc -c hyper-scripts.ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianhunter/hyperscripts.git"
+  },
+  "keywords": [
+    "livescript",
+    "cli",
+    "utils",
+    "cli-tools",
+    "javascript-cli",
+    "tools"
+  ],
+  "author": "adrianhunter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianhunter/hyperscripts/issues"
+  },
+  "homepage": "https://github.com/adrianhunter/hyperscripts#readme",
+  "dependencies": {
+    "needle": "^1.0.0"
+  }
+}
