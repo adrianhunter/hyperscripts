@@ -26,6 +26,9 @@
   },
   "homepage": "https://github.com/adrianhunter/hyperscripts#readme",
   "dependencies": {
-    "needle": "^1.0.0"
+    "cheerio": "^0.20.0",
+    "csvjson": "^1.0.5",
+    "needle": "^1.0.0",
+    "underscore": "^1.8.3"
   }
 }
